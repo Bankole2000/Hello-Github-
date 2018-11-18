@@ -1,2 +1,2 @@
 # Hello-Github-
-Trying out Github Features
+Demo repository to get used to Github Features
