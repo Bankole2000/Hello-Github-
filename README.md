@@ -24,7 +24,7 @@ __Bold Text__ `__Bold Text__`
 ~~Strike through~~ `~~Strike Through~~`
 
 <!-- Block Quote -->
-> This is a Block Quote &nbsp;` > BlockQuote`
+> This is a Block Quote &nbsp;` > This is a Block Quote`
 <!-- Horizontal Rule -->
 Horizontal Rule `--- or ___`
 ---
@@ -67,6 +67,7 @@ Inline `Code` Block &nbsp;
 
 <!-- Images -->
 Image `![Markdown Logo](https://markdown-here.com/img/icon256.png)`
+
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 <!-- GitHub Markdown -->
